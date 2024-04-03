@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+input{
+    width: 100%;
+    color: red;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.todo-container{
+    text-align: left;
+}
+
+.kg-row{
+    margin: 7px 3px;
+}
+
+.kg-button{
+    margin: 10px 20px;
+    min-width: 70px;
+}
